@@ -1,0 +1,17 @@
+.shelf-box {
+    margin: 20px auto;
+    background-color: #D34735;
+    width: 500px;
+    height: auto;
+    padding: 10px;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 32px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    
+}
+.shelf-box span {
+    left: -110px;
+    position: relative;
+}

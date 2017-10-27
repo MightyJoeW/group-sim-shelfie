@@ -1,0 +1,41 @@
+.nav {
+	align-items: center;
+	background-color: #AB2A19;
+	box-sizing: border-box;
+	color: #ffffff;
+    display: flex;
+    flex-direction: row;
+	height: 100px;
+	justify-content: space-between;
+	padding: 15px;
+}
+
+.nav__header-wrapper {
+	align-items: center;
+	display: flex;
+}
+
+.nav a, .nav a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.both-nav {
+    display: flex;
+    position: relative;
+    left: 700px;
+    top: 10px;
+}
+
+.nav__header {
+    margin: 0;
+    font-size: 32px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+   
+}
+
+.nav__shelfie-logo {
+	height: 45px;
+	margin-right: 12px;
+}
